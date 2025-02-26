@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deep patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep patel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deep-patel-1118a5277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep-patel-1118a5277" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
